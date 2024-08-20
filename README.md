@@ -1,5 +1,10 @@
 # Exno:1
 Data Cleaning Process
+```
+NAME : THIRUNAVUKKARASU P
+DEPT : CSE
+REG NO : 212222040173
+```
 
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
