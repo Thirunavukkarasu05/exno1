@@ -1,5 +1,4 @@
-# Exno:1
-Data Cleaning Process
+# Exno:1 Data Cleaning Process
 ```
 NAME : THIRUNAVUKKARASU P
 DEPT : CSE
